@@ -42,7 +42,7 @@ tibble(
 -   ¿A qué se parece una distribución normal?
 
 ::: {#respuesta-1 .callout-note}
-Se parece a una campana más o menos estrecha en función de la desviación típica.
+La distribución normal es como una campana de Gauss.
 :::
 
 ### Pregunta 2
